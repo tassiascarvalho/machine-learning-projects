@@ -10,7 +10,7 @@ Este repositório contém a implementação de um modelo de regressão linear mu
 - `analise_exploratoria.py`: Geração de histogramas, densidades e correlações (salvos em PDF)
 - `gradient_descent.py`: Algoritmo de otimização com critério de parada (e salvamento opcional da curva de custo)
 - `validacao.py`: Validação cruzada (k-fold e LOOCV) com gráficos de erro
-- `dataset/insurance.csv`: Ficheiro de dados (não incluído, deve ser fornecido)
+- `dataset/insurance.csv`: Ficheiro de dados 
 
 ---
 
