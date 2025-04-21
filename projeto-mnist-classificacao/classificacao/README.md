@@ -26,3 +26,11 @@ Os gráficos são exibidos durante o treino. Resultados médios por configuraç�
 - `resultados_validacao.csv`
 
 ---
+## 🖍️ Teste Manual com Desenho
+É possível testar a rede com um dígito desenhado pelo utilizador. Para isso:
+
+- Executa o script prever_digito.py.
+- Será aberta uma janela onde podes desenhar o dígito com o rato (mouse).
+- Após clicar em Salvar, o modelo preverá o valor do dígito.
+- É exibida a imagem processada e a predição no terminal.
+- O modelo usa os pesos treinados previamente salvos em modelo_treinado_parametrizado.h5.
