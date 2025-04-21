@@ -19,8 +19,7 @@ Este repositório contém a implementação de um modelo de regressão supervisi
 
 - `histogramas.pdf`: Gráficos das distribuições das features (histograma e densidade)
 - `correlacoes.pdf`: Gráficos de correlação entre as features e com o target
-- `evolucao_custo.png` (opcional): Curva de convergência da função de custo
-
+  
 ---
 
 ## 🚀 Como executar
