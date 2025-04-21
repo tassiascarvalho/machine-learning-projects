@@ -1,6 +1,6 @@
-# 📈 Projeto de Regressão Linear com Gradiente Descendente
+# 📈 Projeto de Regressão com Gradiente Descendente
 
-Este repositório contém a implementação de um modelo de regressão linear multivariada com otimização via descida do gradiente, análise exploratória e validação cruzada.
+Este repositório contém a implementação de um modelo de regressão supervisionada - linear e polinomial - com otimização via descida do gradiente, análise exploratória e validação cruzada.
 
 ---
 
@@ -10,6 +10,7 @@ Este repositório contém a implementação de um modelo de regressão linear mu
 - `analise_exploratoria.py`: Geração de histogramas, densidades e correlações (salvos em PDF)
 - `gradient_descent.py`: Algoritmo de otimização com critério de parada (e salvamento opcional da curva de custo)
 - `validacao.py`: Validação cruzada (k-fold e LOOCV) com gráficos de erro
+- `regressao_polinomial.py`: Expande as features com PolynomialFeatures e aplica os mesmos métodos de treino e validação
 - `dataset/insurance.csv`: Ficheiro de dados 
 
 ---
@@ -51,9 +52,14 @@ Este repositório contém a implementação de um modelo de regressão linear mu
 5. **Execute o script principal:**
    ```bash
    python regressao_linear.py
+   python regressao_polinomial.py
    ```
 
 ---
+📚 Considerações
+A regressão polinomial tende a demorar mais para convergir devido ao maior número de features.
+
+Os valores de learning_rate e tolerance podem precisar ser ajustados conforme o grau do polinómio.
 
 ## 👩‍💻 Autoria
 
