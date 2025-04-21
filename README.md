@@ -6,6 +6,6 @@ Este repositório reúne os projetos e relatórios desenvolvidos no âmbito da d
 
 ## 📁 Projetos Disponíveis
 
-### 🔹 [Regressão Linear com Gradiente Descendente](./projeto-regressao)
+### 🔹 [Regressão com Gradiente Descendente](./projeto-regressao)
 ### 🔹 [Autoencoder com K-Means para MNIST](./projeto-autoencoder-kmeans)
 ### 🔹 [Classificação MNIST com Rede Neural e Validação Cruzada](./projeto-mnist-classificacao)
