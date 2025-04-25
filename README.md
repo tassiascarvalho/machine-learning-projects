@@ -9,4 +9,4 @@ Este repositório reúne os projetos e relatórios desenvolvidos no âmbito da d
 ### 🔹 [Regressão com Gradiente Descendente](./projeto-regressao)
 ### 🔹 [Classificação MNIST com Rede Neural e Validação Cruzada](./projeto-mnist-classificacao)
 ### 🔹 [Classificação de Imagens com CNNs](./projeto-benchmark-cnns)
-### 🔹 [Autoencoder com K-Means para MNIST](./projeto-autoencoder-kmeans)
+### 🔹 [Deep Clustering Network (Unsupervised)](./projeto-autoencoder-kmeans)
