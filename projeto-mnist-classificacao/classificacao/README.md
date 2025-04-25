@@ -34,3 +34,8 @@ Os gráficos são exibidos durante o treino. Resultados médios por configuraç�
 - Após clicar em Salvar, o modelo preverá o valor do dígito.
 - É exibida a imagem processada e a predição no terminal.
 - O modelo usa os pesos treinados previamente salvos em modelo_treinado_parametrizado.h5.
+
+---
+## 👩‍💻 Autoria
+
+Projeto desenvolvido por Tassia Carvalho no âmbito da disciplina de *Aprendizagem Automática (Mestrado)*.
